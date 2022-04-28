@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poc-react-push-notifications/static/css/main.63489ffe.chunk.css",
-    "main.js": "/poc-react-push-notifications/static/js/main.93ccd33d.chunk.js",
-    "main.js.map": "/poc-react-push-notifications/static/js/main.93ccd33d.chunk.js.map",
+    "main.js": "/poc-react-push-notifications/static/js/main.b2dcb6ad.chunk.js",
+    "main.js.map": "/poc-react-push-notifications/static/js/main.b2dcb6ad.chunk.js.map",
     "runtime-main.js": "/poc-react-push-notifications/static/js/runtime-main.9c99a857.js",
     "runtime-main.js.map": "/poc-react-push-notifications/static/js/runtime-main.9c99a857.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/poc-react-push-notifications/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.a0b95359.chunk.js",
     "static/css/main.63489ffe.chunk.css",
-    "static/js/main.93ccd33d.chunk.js"
+    "static/js/main.b2dcb6ad.chunk.js"
   ]
 }
