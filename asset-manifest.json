@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poc-react-push-notifications/static/css/main.073c9b0a.css",
+    "main.js": "/poc-react-push-notifications/static/js/main.18f43189.js",
+    "static/js/787.c8e6aedd.chunk.js": "/poc-react-push-notifications/static/js/787.c8e6aedd.chunk.js",
+    "index.html": "/poc-react-push-notifications/index.html",
+    "main.073c9b0a.css.map": "/poc-react-push-notifications/static/css/main.073c9b0a.css.map",
+    "main.18f43189.js.map": "/poc-react-push-notifications/static/js/main.18f43189.js.map",
+    "787.c8e6aedd.chunk.js.map": "/poc-react-push-notifications/static/js/787.c8e6aedd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.18f43189.js"
+  ]
+}
